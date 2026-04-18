@@ -9,3 +9,11 @@ The fruits we have classified are:
 5. Lime
 6. Orange
 7. Pomegranate
+
+Training Model: Used trained model by ResNet50 to continue training
+
+Team: 
+1. Tan Hou Ren
+2. Muhammad Azri Asnawi Bin Kamal Arifin
+3. Maithilly Partiban
+4. Lim Wei
